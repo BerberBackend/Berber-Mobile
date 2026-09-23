@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Berber Randevu",
+    "slug": "berber-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#1f2937"
+    },
+    "android": {
+      "package": "com.berber.randevu"
+    },
+    "ios": {
+      "bundleIdentifier": "com.berber.randevu"
+    }
+  }
+}
